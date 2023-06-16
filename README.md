@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # weather-api-ananyak
 Weather app
 =======
@@ -23,3 +24,7 @@ The API provider is http://www.OpenWeatherMap.org
 
 To Create this web application please follow the tutorial on my channel:https://youtu.be/KqZGuzrY9D4
 >>>>>>> 90a7025 (Initial commit)
+=======
+# weather-api-ananyakarmakar2002
+A weather app is built using HTML, CSS and javascript.
+>>>>>>> f24c1e1901001c05f60c286289165aeb426d95b0
